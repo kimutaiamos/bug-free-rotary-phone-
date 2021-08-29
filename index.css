@@ -3,3 +3,9 @@
     text-align: center;
     text-transform: uppercase;
 }
+#view{
+    color: chartreuse;
+    justify-content: center;
+    font-weight: 12px;
+    text-transform: uppercase;
+}
